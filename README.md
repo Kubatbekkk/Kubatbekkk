@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kubat
 ==============================================================================================================================================
 
-Frontend Web Developer
+React Frontend Web Developer
 ----------------------
 
 I am a detail-oriented person who takes pride in producing high-quality work. I enjoy working in a team environment, where I can collaborate and share my ideas with other developers. I have also completed several projects where I was responsible for developing user interfaces, and I have learned the importance of creating responsive designs that are accessible and user-friendly.
