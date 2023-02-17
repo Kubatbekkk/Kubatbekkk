@@ -10,7 +10,7 @@ I am a detail-oriented person who takes pride in producing high-quality work. I 
 * ✉️  You can contact me at [k.mirzabekuulu@gmail.com](mailto:k.mirzabekuulu@gmail.com)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on interesting projects
-
+* 🧚🏻‍♂️  I also have some private repos that can't be shown at this moment, but will be in a week or so
 ### Skills
 
 <p align="left">
